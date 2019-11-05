@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\thijs\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thijs\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Challenge.1467935791.00" t="ExcludeRecursive" />
+    <e p="C:\Users\thijs\OneDrive - MBO Utrecht\Game\Player control game\Challenge" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Challenge 1" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="FollowPlayerX.cs" t="Include" />
+            <e p="PlayerControllerX.cs" t="Include" />
+            <e p="SpinPropellorX.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="SpinningObject.cs" t="Include" />
+      </e>
+      <e p="Challenge.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
